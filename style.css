@@ -3,11 +3,13 @@
 body {
     margin: 0px;
     padding: 0px;
+    background: url("imgs/pergamentnii.jpg") center/cover no-repeat;
 }
 
 main {
     margin-top: 30px;
     font-family: 'MedievalSharp', cursive;
+
 }
 
 header {
